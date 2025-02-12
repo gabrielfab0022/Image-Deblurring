@@ -1,2 +1,2 @@
 # Image-Deblurring
-Este repositório contém uma implementação, em python, do algoritmo de deblurring proposto no artigo "Deblurring Text Images via L0-Regularized Intensity and Gradient Prior", por Jinshan Pan et al.
+Este repositório contém uma implementação, em python, do algoritmo de deblurring proposto no artigo "Deblurring Text Images via L0-Regularized Intensity and Gradient Prior", por Jinshan Pan et al. Essa implementação foi feita no contexto do projeto final da disciplina de visão computacional. Os slides usados na apresentação do projeto também são disponibilizados como suporte para o entendimento. 
